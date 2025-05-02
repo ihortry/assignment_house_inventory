@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 // ✅ Greeting component
 function Greeting() {
-  return <h1>Hello Ihor</h1>;
+  return <h1>Hello Ihor &&</h1>;
 }
 
 export default function Home() {
